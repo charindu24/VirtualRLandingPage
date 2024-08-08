@@ -1,6 +1,9 @@
 Virtual IR Landing Page
 Welcome to the Virtual IR Landing Page project! This is a landing page for Virtual IR, built with modern web technologies.
 
+Used technlogies -React and Tailwind.css
+
+
 🚀 Getting Started
 These instructions will help you set up your local development environment.
 
