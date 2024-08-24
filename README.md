@@ -1,6 +1,8 @@
 Virtual IR Landing Page
 Welcome to the Virtual IR Landing Page project! This is a landing page for Virtual IR, built with modern web technologies.
 
+Live view: https://virtual-ir-landing-page-six.vercel.app/
+
 Used technlogies -React and Tailwind.css
 
 
